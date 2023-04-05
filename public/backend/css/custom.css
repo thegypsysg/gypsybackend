@@ -1,0 +1,114 @@
+.d-flex{
+    display: flex;
+}
+
+.mr-1{
+    margin-right: 0.5rem;
+}
+.mt-1{
+    margin-top: 0.5rem;
+}
+.mr-2{
+    margin-right: 1.5rem;
+}
+.mt-2{
+    margin-top: 1.5rem;
+}
+.mb-1{
+    margin-bottom: 0.5rem;
+}
+.mb-2{
+    margin-bottom: 1.5rem;
+}
+.mt-3{
+    margin-top: 2.5rem;
+}
+.ml-1{
+    margin-left: 0.5rem;
+}
+.ml-2{
+    margin-left: 2.9rem;
+}
+.m-0{
+    margin: 0;
+}
+.p-0{
+    padding: 0;
+}
+.pl-0{
+    padding-left: 0;
+}
+.pt-2{
+    padding-top: 2.5rem;
+}
+.pb-2{
+    padding-bottom: 1.5rem;
+}
+.btn-xs{
+    padding: 1px 4px;
+}
+.header-links li{
+    list-style: none;
+    margin-right: 10px;
+}
+.w-25{
+    width: 24.1%;
+}
+.fw-normal{
+    font-weight: normal;
+}
+
+div.dataTables_wrapper div.dataTables_length select {
+    width: 75px;
+    display: inline-block;
+}
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
+    outline: 0px auto;
+    outline-offset: 0px;
+}
+.file-uploader{
+    position: relative;
+}
+.file-uploader img{
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+}
+
+.file-uploader input{
+    font-size: 5px;
+    position: absolute;
+    left: 0;
+    top: 10px;
+    opacity: 0;
+    cursor: pointer;
+}
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+.list-style-none{
+    list-style: none;
+}
+.bold{
+    font-weight: 600;
+}
+.floating-data{
+    width: 500px;
+    position: absolute;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+    padding: 0; 
+    margin-left: -1px;
+}
+.dataTables_wrapper{
+    clear: none;
+}
+table.dataTable thead th{
+    padding: 9px 18px;
+}
+table.dataTable thead td{
+    padding: 8px 10px;
+}
